@@ -21,4 +21,6 @@ for google colaboratory
 
 Практика 1.0.0 https://colab.research.google.com/drive/1EBvFAyypDz0IX2cic2BowSrrEpKXZOV4?usp=sharing
 
-Практика 1.1.0 скоро...
+Практика 1.1.0 https://colab.research.google.com/drive/1wTu8TR-h462aJlFmBVZ5ZgEv5x9fLQ6U?usp=sharing
+
+Практика 1.2.0 скоро...
