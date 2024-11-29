@@ -1,6 +1,8 @@
 # Programming-
 for google colaboratory
 
+Ну тут все практики по названия, тыкните на них и там ответы
+
 Практика 0.2.0 https://colab.research.google.com/drive/1k8O0B_qjdwTQ-NgbO2mxSHDjYDYaJyMS?usp=sharing
 
 Практика 0.3.0 https://colab.research.google.com/drive/1IkgrNz08ULd50AinX-ipPBMLYlYAK8ZV?usp=sharing
